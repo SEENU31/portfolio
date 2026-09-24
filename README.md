@@ -39,27 +39,7 @@ I enjoy working with Machine Learning, Deep Learning, Data Science, and software
 
 ---
 
-## 🚀 Featured Projects
 
-### 🤖 Machine Learning Projects
-
-Developed machine learning and AI-based projects focused on solving real-world problems through data-driven approaches.
-
-### 😊 Face Emotion Detection System
-
-A Computer Vision project that detects human emotions from facial expressions using Deep Learning, TensorFlow, and OpenCV.
-
----
-
-## 📜 Certifications
-
-- Project Management Foundations – LinkedIn Learning
-- Practical GitHub Actions – LinkedIn Learning
-- Soft Skills – NPTEL
-- Spoken Tutorial – Python & HTML – IIT Bombay
-- Robotic Process Automation: Automate Your Future – Navkis College of Engineering
-
----
 
 ## 🌐 Live Portfolio
 
@@ -69,7 +49,7 @@ A Computer Vision project that detects human emotions from facial expressions us
 
 ## 📫 Contact
 
-💼 LinkedIn: Add your LinkedIn profile link
+💼 LinkedIn: www.linkedin.com/in/t-k-shreyas-1736672a1
 
 💻 GitHub: https://github.com/SEENU31
 
